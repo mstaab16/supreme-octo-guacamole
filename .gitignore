@@ -1,3 +1,5 @@
 venv/
+*.png
+*.gif
 .DS_Store
 *.pyc
